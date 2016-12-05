@@ -1,0 +1,4 @@
+*.log
+*.report
+plugins.vim
+.DS_Store
